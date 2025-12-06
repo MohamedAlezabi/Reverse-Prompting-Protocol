@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/RPP-v1.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Built-with](https://img.shields.io/badge/Built_with-AI-black)
+
+
 Reverse Prompting Protocol (RPP) – v1.0
 
 Author: Mohamed Alezabi
@@ -69,6 +75,33 @@ A structured cognitive process in which the AI guides the human’s awareness, n
 
 
 ## Mechanism of Action
+
+      ┌────────────┐
+      │    DUMP    │
+      │ Raw mental │
+      │  discharge │
+      └──────┬─────┘
+             │
+             ▼
+      ┌────────────┐
+      │  REFLECT   │
+      │  AI mirror │
+      │  of state  │
+      └──────┬─────┘
+             │
+             ▼
+      ┌────────────┐
+      │  REFRAME   │
+      │ Rebuild the│
+      │   concept  │
+      └──────┬─────┘
+             │
+             ▼
+      ┌────────────┐
+      │  REDIRECT  │
+      │ Actionable │
+      │  guidance  │
+      └────────────┘
 
 RPP is built on a four-stage cycle:
 
@@ -160,5 +193,13 @@ and a pathway toward Human Version 2.0.
 ## License
 This project is licensed under the MIT License — feel free to use, modify, and distribute it with proper attribution.
 
-## Citation
+## Suggested Citation
 Alezabi, Mohamed. (2025). Reverse Prompting Protocol (RPP) v1.0: A Cognitive–Metacognitive Framework for AI-Assisted Awareness. GitHub Repository. https://github.com/MohamedAlezabi/Reverse-Prompting-Protocol
+
+## BibTeX
+@misc{alezabi2025rpp,
+  title        = {Reverse Prompting Protocol (RPP) v1.0: A Cognitive-Metacognitive Framework for AI-Assisted Awareness},
+  author       = {Mohamed Alezabi},
+  year         = {2025},
+  howpublished = {\url{https://github.com/mohamedalezabi/reverse-prompting-protocol}},
+}
