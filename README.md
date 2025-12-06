@@ -160,5 +160,5 @@ and a pathway toward Human Version 2.0.
 ## License
 This project is licensed under the MIT License — feel free to use, modify, and distribute it with proper attribution.
 
-## Suggested Citation
+## Citation
 Alezabi, Mohamed. (2025). Reverse Prompting Protocol (RPP) v1.0: A Cognitive–Metacognitive Framework for AI-Assisted Awareness. GitHub Repository. https://github.com/MohamedAlezabi/Reverse-Prompting-Protocol
