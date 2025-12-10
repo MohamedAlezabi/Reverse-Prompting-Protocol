@@ -1,21 +1,33 @@
-MIT License
+Reverse Prompting Protocol (RPP)
+Copyright (c) 2024-2025 Mohamed Alezabi
 
-Copyright (c) 2025 Mohamed Alezabi
+This project is licensed under the GNU General Public License v3.0 (GPLv3),
+with an additional attribution requirement.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may copy, modify, use, and distribute this work under the following
+conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Any derivative work must remain under the GPLv3 license.
+2. All copies or modifications MUST include a visible notice stating:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   “Based on the Reverse Prompting Protocol (RPP) by Mohamed Alezabi”
+   
+3. You must provide a link to the original repository:
+   https://github.com/MohamedAlezabi/Reverse-Prompting-Protocol
+
+4. Significant modifications must include a “Changes” section describing
+   what was altered.
+
+5. No part of this work may be relicensed under a non–GPL-compatible license.
+
+The full text of the GPLv3 is included below.
+
+---------------------------------------------------------------------
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+[--- FULL GPLv3 LICENSE TEXT BELOW ---]
+
+(Paste the entire GNU GPL v3 text here —
+I can send you the complete formatted version right now.)
