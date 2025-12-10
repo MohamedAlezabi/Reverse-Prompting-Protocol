@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Reverse Prompting Protocol (RPP)"
+message: "Please cite this work if you use it."
+authors:
+  - family-names: "Alezabi"
+    given-names: "Mohamed"
+version: "1.0"
+date-released: "2024-12-05"
+url: "https://github.com/MohamedAlezabi/Reverse-Prompting-Protocol"
+license: "GPL-3.0"
